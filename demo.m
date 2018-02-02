@@ -38,7 +38,7 @@ opt.gc=3.5;
 load('syntNoisy3_z.mat');
 data.noisy = syntNoisy3_z;
 data.t = linspace(0,(100),length(data.noisy));
-data.dt = 0.01;
+data.dt = 0.1;
 
 tic
 dn =gcvThreshF(data,opt);
