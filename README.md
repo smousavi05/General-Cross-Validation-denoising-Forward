@@ -30,9 +30,12 @@ to every type of seismic data and can be combined with other array based methods
 detection of small magnitude events and accuracy of arrival time picking.
 
 ![This figure illustrates the process of adding noise to the synthetic seismogram](Fig1.png) 
+This figure illustrates the process of adding noise to the synthetic seismogram
 
 ![Results on synthetic seismogram](Fig2.png) 
+Results on synthetic seismogram
 
-![Results on real seismogram](Fig3.png) 
+![Results on real seismogram](Fig3.png)
+Results on real seismogram
 
 
