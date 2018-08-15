@@ -1,4 +1,4 @@
-# Denoising_GCVwavaletF
+# Denoising_GCVwavalet_Forward
 =======================
 
 This repository contains MATLAB scripts and sample data for applying denoising method presented in: 
