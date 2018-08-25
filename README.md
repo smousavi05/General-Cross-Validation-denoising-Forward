@@ -1,5 +1,5 @@
-# Denoising_GCVwavalet_Forward
-=======================
+# General-Cross-Validation Denoising
+==============================================
 
 This repository contains MATLAB scripts and sample data for applying denoising method presented in: 
 
