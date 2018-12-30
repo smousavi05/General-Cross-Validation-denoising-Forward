@@ -1,7 +1,7 @@
 # General-Cross-Validation Denoising
 ----------------------------------------------------------------------
 
-This repository contains MATLAB scripts and sample data for applying denoising method presented in: 
+This repository contains MATLAB scripts and sample data for applying denoising method similar to the one presented in: 
 
 "Mousavi, S. M., and C. A. Langston (2017). Automatic Noise-Removal/Signal-Removal Based on the
 General-Cross-Validation Thresholding in Synchrosqueezed domains, and its application on earthquake data,
@@ -10,6 +10,8 @@ Geophysics.82(4), V211-V227 doi: 10.1190/geo2016-0433.1"
 `demo.m` includes all info you need to know for running the code. 
 
 you need `MATLAB statistics` and `signal processing toolboxes` to run this code.
+
+There are several changes in this version compared to the original paper just to make the code faster and more stable. 
 
 ## Paper
 (https://www.researchgate.net/publication/315917772_Automatic_noise-removalsignal-removal_based_on_general_cross-validation_thresholding_in_synchrosqueezed_domain_and_its_application_on_earthquake_data)
