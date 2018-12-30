@@ -11,7 +11,7 @@ Geophysics.82(4), V211-V227 doi: 10.1190/geo2016-0433.1"
 
 you need `MATLAB statistics` and `signal processing toolboxes` to run this code.
 
-There are several changes in this version compared to the original paper just to make the code faster and more stable. 
+However, there are several changes in this version compared to the original paper just to make the code faster and more stable. 
 
 ## Paper
 (https://www.researchgate.net/publication/315917772_Automatic_noise-removalsignal-removal_based_on_general_cross-validation_thresholding_in_synchrosqueezed_domain_and_its_application_on_earthquake_data)
