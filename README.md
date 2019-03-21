@@ -1,4 +1,4 @@
-# General-Cross-Validation Denoising            
+#       General-Cross-Validation Denoising                   
 ----------------------------------------------------------------------
 
 This repository contains MATLAB scripts and sample data for applying denoising method similar to the one presented in: 
