@@ -6,7 +6,18 @@ This repository contains MATLAB scripts and sample data for applying denoising m
 Automatic Noise-Removal/Signal-Removal Based on the General-Cross-Validation Thresholding in Synchrosqueezed domains, and its application on earthquake data,
 Geophysics.82(4), V211-V227 doi: 10.1190/geo2016-0433.1`
 
+BibTeX:
 
+    @article{mousavi2017automatic,
+    title={Automatic noise-removal/signal-removal based on general cross-validation thresholding in synchrosqueezed domain and  its application on earthquake data},
+     author={Mousavi, S Mostafa and Langston, Charles A},
+     journal={Geophysics},
+    volume={82},
+    number={4},
+    pages={V211--V227},
+    year={2017},
+    publisher={Society of Exploration Geophysicists}
+    }
 
 `demo.m` includes all info you need to know for running the code. 
 
