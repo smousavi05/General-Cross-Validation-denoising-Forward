@@ -2,9 +2,9 @@
 
 This repository contains MATLAB scripts and sample data for applying denoising method similar to the one presented in: 
 
-`Mousavi, S. M., and C. A. Langston (2017). 
+Mousavi, S. M., and C. A. Langston (2017). 
 Automatic Noise-Removal/Signal-Removal Based on the General-Cross-Validation Thresholding in Synchrosqueezed domains, and its application on earthquake data,
-Geophysics.82(4), V211-V227 doi: 10.1190/geo2016-0433.1`
+Geophysics.82(4), V211-V227 doi: 10.1190/geo2016-0433.1
 
 
 
