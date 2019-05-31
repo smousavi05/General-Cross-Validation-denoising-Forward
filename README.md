@@ -22,6 +22,8 @@ BibTeX:
     year={2017},
     publisher={Society of Exploration Geophysicists}
     }
+    
+------------------------------------------
 
 `demo.m` includes all info you need to know for running the code. 
 
