@@ -41,7 +41,7 @@ However, there are several changes in this version compared to the original pape
 ## Talk 
 (https://earthquake.usgs.gov/contactus/menlo/seminars/1093)
 
-----------------------------------------------------------------------
+------------------------------------------
 
 ## Abstract 
 Recorded seismic signals are often corrupted by noise. An automatic noise attenuation method for single-channel seismic data is presented, based upon high-resolution time-frequency analysis. Synchrosqueezing is a time-frequency reassignment method aimed at sharpening a time–frequency picture. Noise can be distinguished from the signal and attenuated more easily in this reassigned domain. The threshold level is estimated using a general cross validation approach that does not rely on any prior knowledge about the noise level. Efficiency of thresholding has been improved by adding a pre-processing step based on Kurtosis measurement and a post-processing step based on adaptive hard-thresholding. The proposed algorithm can either attenuate the noise (either white or colored) keeping the signal or remove the signal and keep the noise. Hence, it can be used in either normal denoising applications or pre-processing in ambient noise studies. We test the performance of the proposed method on synthetic, microseismic, and earthquake seismograms.
